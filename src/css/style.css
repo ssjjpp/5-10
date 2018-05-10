@@ -27,3 +27,13 @@ header {
     color: #fff;
     font-size: 20px;
 }
+
+.hui {
+    width: 100%;
+    height: 400px;
+    background: red;
+    line-height: 400px;
+    font-size: 30px;
+    text-align: center;
+    color: #fff;
+}
